@@ -42,7 +42,7 @@ Handles saving and loading payments using JSON and file operations. <br>
 <b>5. activity_main.xml:</b> <br> 
 UI layout for the main screen. <br>
 <b>6. dialog_add_payment.xml:</b> <br> 
-UI layout for the add payment dialog. <br><br>
+UI layout for the add payment dialog. <br>
 
 <h3>UI Screenshots:</h3>
 <img src="https://github.com/coderehan/MeraBills-Android-Assignment/assets/75351694/0978e9dc-1cfd-4525-bdd8-1226fc2c7c49.jpg" width=30% height=30%> <img src="https://github.com/coderehan/MeraBills-Android-Assignment/assets/75351694/1214dc2a-2852-425f-b6cf-de1e196d003a.jpg" width=30% height=30%>
