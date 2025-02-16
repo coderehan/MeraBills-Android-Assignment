@@ -11,7 +11,7 @@ Payments are displayed as dynamic chips in a ChipGroup, making them easy to trac
 <b>3. Delete Payments:</b> <br>
 Users can remove payments with a confirmation dialog to prevent accidental deletions. <br>
 <b>4. Save Payments:</b> <br>
-Payments are stored locally in a file "LastPayments.txt" using JSON serialization to ensure data persistence. <br>
+Payments are stored locally in a file "LastPayment.txt" using JSON serialization to ensure data persistence. <br>
 <b>5. Load Payments:</b> <br>
 Previously saved payments are loaded when the app starts, allowing users to continue from where they left off. <br>
 
